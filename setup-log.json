@@ -1,0 +1,10 @@
+{
+  "service_id": "ofc-temp",
+  "service_name": "OFC Temp",
+  "domain": "https://ofc.land",
+  "host": "localhost",
+  "port": "3140",
+  "author": "leo",
+  "anthropic": false,
+  "created_on": "Sat Jul  4 01:03:30 PM EDT 2026"
+}
